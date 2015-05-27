@@ -3,7 +3,9 @@
 <h4> <b>Tasks:</b></h4> 
 - Develop a desktop application that loads one or more images from a file and displays them in a
 window. [Action] can also be performed on them, by using UI controls (buttons, text input fields etc.)
-- Adjust contrast (0-100%); adjust brightness (0-100%); save resulting image.
+- Adjust contrast (0-100%)
+- adjust brightness (0-100%)
+- save resulting image.
 
 <h5 align = "center"> IDE </h5>
 <p align = "center"> Microsft Visual Studio 2015 , Windows Forms Application (C#)</p>
