@@ -22,4 +22,4 @@
 <p>The playback speed depends on the sampling frequency which is usually 44Khz for the media sounds, so in order to make a sound play faster we have to increase it. Direct Sound allows us to manipulate this value. In our program the vertical slider takes values from 19 to 1 and for playback speed manipulation we divide this value by 10 and multiply with the default sampling frequency. </p>
 
 <h5 align = "center"> Conclusion </h5>
-<p> By performing this laboratory work we learned how to work with sound files and manipulate some of it's properties like sampling frequency and also how to work with various audio devices using directx.</p> 
+<p> By performing this laboratory work we learned how to work with sound files and manipulate some their properties like sampling frequency and also how to work with various audio devices using directX.</p> 
