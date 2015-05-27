@@ -5,7 +5,8 @@
 window. [Action] can also be performed on them, by using UI controls (buttons, text input fields etc.)
 - Adjust contrast (0-100%); adjust brightness (0-100%); save resulting image.
 
-<h5> IDE: <font size = "3">Microsoft Visual Studio 2015</font> <br> Application Type: <font size = "3">C# Windows Forms application</font> </br> </h5>
+<h5 align = "center"> IDE </h5>
+<p align = "center"> Microsft Visual Studio 2015 , Windows Forms Application (C#)</p>
 
 <h5 align = "center"> Screenshots </h5> <br>
 <a href="http://www.imagebam.com/image/3b2f1b412104325" target="_blank"><img src="http://thumbnails106.imagebam.com/41211/3b2f1b412104325.jpg" alt="imagebam.com"></a> <a href="http://www.imagebam.com/image/e3abd8412104335" target="_blank"><img src="http://thumbnails106.imagebam.com/41211/e3abd8412104335.jpg" alt="imagebam.com"></a> <a href="http://www.imagebam.com/image/da821a412104344" target="_blank"><img src="http://thumbnails106.imagebam.com/41211/da821a412104344.jpg" alt="imagebam.com"></a> 
