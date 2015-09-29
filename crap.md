@@ -7,7 +7,7 @@ Not that <em>easy</em></p>
 
 <p>What happens if we do ##this?</p>
 
-<p>How about <code><em>this</em>?</p>
+<p>How about <code><em>this</em></code>?</p>
 
 <p><strong>it <em>wor<code>k</code>s!</em></strong></p>
 
